@@ -17,6 +17,8 @@ ScriptsOnlyBuild:
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
     - UnityEditor.Graphs.AnimatorControllerTool
+    UnityEditor.TestRunner.dll:
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
     UnityEngine.UI.dll:
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.EventSystems.StandaloneInputModule
@@ -157,6 +159,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
     - Class: 89
       Script: {instanceID: 0}
     - Class: 90
@@ -249,6 +255,10 @@ ScriptsOnlyBuild:
     - Class: 74
       Script: {instanceID: 0}
     - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
       Script: {instanceID: 0}
     - Class: 89
       Script: {instanceID: 0}
@@ -1070,5 +1080,5 @@ ScriptsOnlyBuild:
   - Assets/Scenes/EndGame.unity
   - Assets/Scenes/Menu.unity
   playerPath: C:/Users/Vollenberg/Dropbox/HKU/Jaar 2/Blok 3/Herkansing - Building
-    Playful Worlds 2/BPW2_Unity/Witchfinders in Space! v4/Builds/Witchfinders in Space!
+    Playful Worlds 2/BPW2_Unity/Witchfinders in Space!/Builds/Witchfinders in Space!
     - BPW2.exe

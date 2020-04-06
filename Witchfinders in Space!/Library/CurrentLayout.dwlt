@@ -413,7 +413,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 4aecffff84ecffff54edffff5cedffffa4f4ffff48faffff50faffff74fbffff
+      m_ExpandedIDs: eac0ffff24c1fffff8c1ffff00c2ffff0cc2ffffa2c7ffffaec7ffff6cd1ffffe2e1ffff98e8ffff70f1ffffe4f7ffff18f8ffff78faffffacfaffff74fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -506,11 +506,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
     speed: 2
-    m_Value: {x: -0.7071068, y: 0, z: -0, w: -0.7071068}
+    m_Value: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
   m_Size:
-    m_Target: 71.43775
+    m_Target: 65.77867
     speed: 2
-    m_Value: 74.803925
+    m_Value: 65.77867
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -663,11 +663,11 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Music
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Music
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Vollenberg\Dropbox\HKU\Jaar 2\Blok 3\Herkansing - Building
     Playful Worlds 2\BPW2_Unity\Witchfinders in Space!
@@ -675,8 +675,8 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 6}
-    m_SelectedIDs: 10290000
-    m_LastClickedID: 10512
+    m_SelectedIDs: 1a310000
+    m_LastClickedID: 12570
     m_ExpandedIDs: 000000001029000082290000762a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -732,7 +732,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000ac2b0000602f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
